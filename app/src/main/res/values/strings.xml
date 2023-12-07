@@ -1,4 +1,4 @@
-<resources>
-    <string name="app_name">MauiPinero-Block1-Quiz</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">MauiPinero-Block1-Quiz</string>
     <string name="hello_d">Hello! :D</string>
 </resources>
